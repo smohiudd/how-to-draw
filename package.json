@@ -1,5 +1,6 @@
 {
   "name": "how-to-draw-app",
+  "homepage": "https://smohiudd.github.io/how-to-draw",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
