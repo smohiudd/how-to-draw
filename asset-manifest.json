@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/how-to-draw/static/css/main.18b43cb0.css",
+    "main.js": "/how-to-draw/static/js/main.ca483c44.js",
+    "index.html": "/how-to-draw/index.html",
+    "main.18b43cb0.css.map": "/how-to-draw/static/css/main.18b43cb0.css.map",
+    "main.ca483c44.js.map": "/how-to-draw/static/js/main.ca483c44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18b43cb0.css",
+    "static/js/main.ca483c44.js"
+  ]
+}
